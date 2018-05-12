@@ -1,0 +1,30 @@
+_repo: The-Modern-Scottish-Minstrel-Volume-V.The-Songs-of-Scotland-of-the-Past-Half-Century_22142
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Rogers, Charles
+    alias: Roger, Charles
+    birthdate: 1825
+    deathdate: 1890
+    gutenberg_agent_id: '25197'
+    url: http://www.gutenberg.org/2009/agents/25197
+description: ''
+gutenberg_issued: '2007-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22142'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scotland -- Poetry'
+- !lcsh 'Songs, Scottish Gaelic -- Texts'
+- !lcc 'PR'
+- !lcsh 'Scottish Gaelic poetry -- Translations into English'
+title: "The Modern Scottish Minstrel, Volume 5.\r\nThe Songs of Scotland of the Past\
+  \ Half Century"
+url: http://www.gutenberg.org/ebooks/22142
